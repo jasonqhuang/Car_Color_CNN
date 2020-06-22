@@ -1,0 +1,17 @@
+Car paint color detection via rgb and hex values.
+Will determine the color provided and find the name of the paint/color
+Dataset for colors and hex values
+Maybe determine how certain paints oxidize over time?
+Look into luminosity / types of paint.
+Usecase: There are paint recognizing tools for interior decorators. 
+https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+
+COVID Bread/yeast tracking store inventory / blog posts / reddit / etc.
+Interested to see how pandemics/covid affects store inventory for yeast specifically. 
+Can be extended to include other grocery inventory. 
+Use web scraping to pull information from large grocery food chains around the world. 
+Panic indicators 
+https://catalog.data.gov/dataset/retail-food-stores
+
+Car sales predictor
+Boring idea
