@@ -22,5 +22,7 @@ The model had a validation accuracy of 0.1650 which beat the baseline of 0.005. 
 ### Sources
 
 Stanford Cars Dataset:https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
 Vehicle Color Recognition Using Convolutional Neural Network , Reza Fuad Rachmadi and I Ketut Eddy Purnama: https://arxiv.org/pdf/1510.07391.pdf
+
 Colors Dataset: https://github.com/codebrainz/color-names/blob/master/output/colors.csv
