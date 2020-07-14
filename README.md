@@ -6,7 +6,7 @@ A Convolutional Neural Network (CNN) model was trained as a color classifier for
 
 The model was trained with 6108 images, validated with 2036 images, and predicted on 8041 images. There were 200 classes of colors determined in the training/validation set. The total number of parameters was 44,907,464. 
 
-#### Background / Problem Statement
+#### Background 
 
 Cars and vehicles have unique car colors and are based off of pigmentation and luminosity. Automobile makers have specific paint color codes/names that usually have no alternative. This model can be used to convert a picture of a car to a reasonbly close RGB color. When an picture of a car is taken, the image is convereted to the RGB color scheme. This RGB color can be predicted with a properly trained CNN model. 
 
