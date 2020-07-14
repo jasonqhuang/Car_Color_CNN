@@ -1,4 +1,4 @@
-# Capstone - Car Color Classification Neural Network
+# Car Color Classification Neural Network
 
 ### Executive Summary
 
