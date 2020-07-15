@@ -1,4 +1,5 @@
 # Car Color Classification Neural Network
+By: Jason Q Huang
 
 ### Executive Summary
 
